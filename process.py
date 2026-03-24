@@ -1,6 +1,5 @@
 import re
 import requests
-import urllib.parse
 
 # --- Einstellungen ---
 BASE_URL = "https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/"
@@ -11,10 +10,10 @@ OUTPUT_FILE = "output.m3u"
 def sanitize_filename(name):
     """
     Wandelt Namen in gültige GitHub-Logodateinamen um:
-    - Entfernt '/' und andere problematische Zeichen
-    - URL-encoded für Umlaute und Sonderzeichen
+    - Entfernt nur problematische Zeichen wie /
+    - Umlaute bleiben unverändert
     """
-    name = name.replace("/", "")        # Slash entfernen
+    name = name.replace("/", "")
     name = name.replace("\\", "")
     name = name.replace(":", "-")
     name = name.replace("*", "-")
@@ -23,7 +22,7 @@ def sanitize_filename(name):
     name = name.replace("<", "")
     name = name.replace(">", "")
     name = name.replace("|", "-")
-    return urllib.parse.quote(name)
+    return name
 
 def get_logo_url(name):
     """
