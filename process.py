@@ -2,12 +2,35 @@ import re
 import requests
 import urllib.parse
 
+# --- Einstellungen ---
 BASE_URL = "https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/"
+M3U_URL = "https://iptv-org.github.io/iptv/languages/deu.m3u"
+OUTPUT_FILE = "output.m3u"
+
+# --- Hilfsfunktionen ---
+def sanitize_filename(name):
+    """
+    Wandelt Namen in gültige GitHub-Logodateinamen um:
+    - Entfernt '/' und andere problematische Zeichen
+    - URL-encoded für Umlaute und Sonderzeichen
+    """
+    name = name.replace("/", "")        # Slash entfernen
+    name = name.replace("\\", "")
+    name = name.replace(":", "-")
+    name = name.replace("*", "-")
+    name = name.replace("?", "")
+    name = name.replace('"', "")
+    name = name.replace("<", "")
+    name = name.replace(">", "")
+    name = name.replace("|", "-")
+    return urllib.parse.quote(name)
 
 def get_logo_url(name):
-    """Versucht .PNG und .png und gibt die funktionierende URL zurück."""
+    """
+    Prüft .PNG und .png Varianten und gibt die funktionierende Raw-URL zurück.
+    """
     for ext in [".PNG", ".png"]:
-        url = BASE_URL + urllib.parse.quote(name + ext)
+        url = BASE_URL + name + ext
         try:
             r = requests.head(url)
             if r.status_code == 200:
@@ -16,28 +39,32 @@ def get_logo_url(name):
             continue
     return ""  # kein Logo gefunden
 
-# M3U einlesen
-URL = "https://iptv-org.github.io/iptv/languages/deu.m3u"
-content = requests.get(URL).text
-lines = content.splitlines()
+# --- M3U laden ---
+response = requests.get(M3U_URL)
+response.raise_for_status()
+lines = response.text.splitlines()
 
-output = []
+# --- M3U verarbeiten ---
+output_lines = []
 
 for line in lines:
     if line.startswith("#EXTINF"):
         parts = line.split(",", 1)
-        name = parts[1].strip()
-        logo_url = get_logo_url(name)
+        channel_name = parts[1].strip()
+        safe_name = sanitize_filename(channel_name)
+        logo_url = get_logo_url(safe_name)
 
         if 'tvg-logo="' in parts[0]:
             parts[0] = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', parts[0])
         else:
             parts[0] += f' tvg-logo="{logo_url}"'
 
-        line = parts[0] + "," + name
+        line = parts[0] + "," + channel_name
 
-    output.append(line)
+    output_lines.append(line)
 
-# Output schreiben
-with open("output.m3u", "w", encoding="utf-8") as f:
-    f.write("\n".join(output))
+# --- Output schreiben ---
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    f.write("\n".join(output_lines))
+
+print(f"Fertig! '{OUTPUT_FILE}' erzeugt.")
