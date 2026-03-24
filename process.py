@@ -1,35 +1,31 @@
 import re
 import requests
+import urllib.parse
 
 # --- Einstellungen ---
-BASE_URL = "https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/"
+BASE_URL = "https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/"
 M3U_URL = "https://iptv-org.github.io/iptv/languages/deu.m3u"
 OUTPUT_FILE = "output.m3u"
 
 # --- Hilfsfunktionen ---
-def sanitize_filename(name):
+def sanitize_for_url(name):
     """
-    Wandelt Namen in gültige GitHub-Logodateinamen um:
-    - Entfernt nur problematische Zeichen wie /
-    - Umlaute bleiben unverändert
+    Entfernt nur problematische Zeichen, belässt Umlaute,
+    und URL-encodiert den Namen für GitHub Raw URLs.
     """
-    name = name.replace("/", "")
+    name = name.replace("/", "")   # Slash entfernen
     name = name.replace("\\", "")
-    name = name.replace(":", "-")
-    name = name.replace("*", "-")
-    name = name.replace("?", "")
-    name = name.replace('"', "")
-    name = name.replace("<", "")
-    name = name.replace(">", "")
     name = name.replace("|", "-")
-    return name
+    # alles andere bleibt
+    return urllib.parse.quote(name)
 
 def get_logo_url(name):
     """
     Prüft .PNG und .png Varianten und gibt die funktionierende Raw-URL zurück.
     """
+    safe_name = sanitize_for_url(name)
     for ext in [".PNG", ".png"]:
-        url = BASE_URL + name + ext
+        url = f"{BASE_URL}{safe_name}{ext}"
         try:
             r = requests.head(url)
             if r.status_code == 200:
@@ -50,8 +46,7 @@ for line in lines:
     if line.startswith("#EXTINF"):
         parts = line.split(",", 1)
         channel_name = parts[1].strip()
-        safe_name = sanitize_filename(channel_name)
-        logo_url = get_logo_url(safe_name)
+        logo_url = get_logo_url(channel_name)
 
         if 'tvg-logo="' in parts[0]:
             parts[0] = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', parts[0])
