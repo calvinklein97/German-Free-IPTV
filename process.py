@@ -1,4 +1,6 @@
+import re
 import requests
+import urllib.parse
 
 URL = "https://iptv-org.github.io/iptv/languages/deu.m3u"
 
