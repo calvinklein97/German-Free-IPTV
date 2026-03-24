@@ -7,17 +7,29 @@ BASE_URL = "https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/ref
 M3U_URL = "https://iptv-org.github.io/iptv/languages/deu.m3u"
 OUTPUT_FILE = "output.m3u"
 
+# --- Mapping für M3U-Namen (ohne Umlaute) → echte Dateinamen im Repo ---
+name_mapping = {
+    "Allgau TV (1080p)": "Allgäu TV (1080p)",
+    "Osterreich TV (1080p)": "Österreich TV (1080p)",
+    # hier alle weiteren Kanäle ergänzen, die Umlaut-/ASCII-Abweichungen haben
+    # Beispiel: "Augsburg TV (1080p)": "Augsburg TV (1080p)"
+}
+
 # --- Hilfsfunktionen ---
 def sanitize_for_url(name):
     """
-    Entfernt nur problematische Zeichen, belässt Umlaute,
-    und URL-encodiert den Namen für GitHub Raw URLs.
+    Entfernt problematische Zeichen (/, \, |) und URL-encodiert
     """
-    name = name.replace("/", "")   # Slash entfernen
+    name = name.replace("/", "")
     name = name.replace("\\", "")
     name = name.replace("|", "-")
-    # alles andere bleibt
     return urllib.parse.quote(name)
+
+def get_repo_name(m3u_name):
+    """
+    Mappt M3U-Namen auf echten Dateinamen
+    """
+    return name_mapping.get(m3u_name, m3u_name)
 
 def get_logo_url(name):
     """
@@ -46,7 +58,8 @@ for line in lines:
     if line.startswith("#EXTINF"):
         parts = line.split(",", 1)
         channel_name = parts[1].strip()
-        logo_url = get_logo_url(channel_name)
+        repo_name = get_repo_name(channel_name)
+        logo_url = get_logo_url(repo_name)
 
         if 'tvg-logo="' in parts[0]:
             parts[0] = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', parts[0])
