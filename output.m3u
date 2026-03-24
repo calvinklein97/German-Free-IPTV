@@ -1,642 +1,642 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="123tv.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/1-2-3 TV (270p).PNG" group-title="Shop",1-2-3 TV (270p)
+#EXTINF:-1 tvg-id="123tv.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/1-2-3%20TV%20%28270p%29.PNG" group-title="Shop",1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-id="3sat.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/3sat (720p) [Geo-blocked].PNG" group-title="General",3sat (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="3sat.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/3sat%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",3sat (720p) [Geo-blocked]
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-id="3sat.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/3sat HD (1080p) [Geo-Blocked].PNG" group-title="General",3sat HD (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="3sat.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/3sat%20HD%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="General",3sat HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1 tvg-id="AlexBerlin.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Alex Berlin (1080p).PNG" group-title="Undefined",Alex Berlin (1080p)
+#EXTINF:-1 tvg-id="AlexBerlin.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Alex%20Berlin%20%281080p%29.PNG" group-title="Undefined",Alex Berlin (1080p)
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
-#EXTINF:-1 tvg-id="AllgauTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Allgäu TV (1080p).PNG" group-title="General",Allgäu TV (1080p)
+#EXTINF:-1 tvg-id="AllgauTV.de@SD" tvg-logo="" group-title="General",Allgäu TV (1080p)
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AltenburgTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Altenburg TV (1080p).PNG" group-title="General",Altenburg TV (1080p)
+#EXTINF:-1 tvg-id="AltenburgTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Altenburg%20TV%20%281080p%29.PNG" group-title="General",Altenburg TV (1080p)
 https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ANIMAL KINGDOM (720p).PNG" group-title="Outdoor",ANIMAL KINGDOM (720p)
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD" tvg-logo="" group-title="Outdoor",ANIMAL KINGDOM (720p)
 https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
-#EXTINF:-1 tvg-id="AnixePlus.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Anixe + (360p).PNG" group-title="Entertainment",Anixe + (360p)
+#EXTINF:-1 tvg-id="AnixePlus.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Anixe%20%2B%20%28360p%29.PNG" group-title="Entertainment",Anixe + (360p)
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
-#EXTINF:-1 tvg-id="AnixeHDSerie.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Anixe HD Serie (360p).PNG" group-title="Entertainment",Anixe HD Serie (360p)
+#EXTINF:-1 tvg-id="AnixeHDSerie.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Anixe%20HD%20Serie%20%28360p%29.PNG" group-title="Entertainment",Anixe HD Serie (360p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id="AntenneKaernten.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Antenne Kaernten (720p).PNG" group-title="Music",Antenne Kaernten (720p)
+#EXTINF:-1 tvg-id="AntenneKaernten.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Antenne%20Kaernten%20%28720p%29.PNG" group-title="Music",Antenne Kaernten (720p)
 https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenneSteiermark.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Antenne Steiermark (720p).PNG" group-title="Music",Antenne Steiermark (720p)
+#EXTINF:-1 tvg-id="AntenneSteiermark.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Antenne%20Steiermark%20%28720p%29.PNG" group-title="Music",Antenne Steiermark (720p)
 https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenneVorarlberg.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Antenne Vorarlberg (720p) [Not 24/7].PNG" group-title="Music",Antenne Vorarlberg (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AntenneVorarlberg.at@SD" tvg-logo="" group-title="Music",Antenne Vorarlberg (720p) [Not 24/7]
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ARD-alpha (720p).PNG" group-title="Education",ARD-alpha (720p)
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ARD-alpha%20%28720p%29.PNG" group-title="Education",ARD-alpha (720p)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ARD-alpha HD [Geo-Blocked].PNG" group-title="Education",ARD-alpha HD [Geo-Blocked]
+#EXTINF:-1 tvg-id="ARDalpha.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ARD-alpha%20HD%20%5BGeo-Blocked%5D.PNG" group-title="Education",ARD-alpha HD [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
-#EXTINF:-1 tvg-id="AristoTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Aristo TV (360p).PNG" group-title="Undefined",Aristo TV (360p)
+#EXTINF:-1 tvg-id="AristoTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Aristo%20TV%20%28360p%29.PNG" group-title="Undefined",Aristo TV (360p)
 https://ma.anixa.tv/clips/stream/aristo/index.m3u8
-#EXTINF:-1 tvg-id="arte.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/arte (1080p).PNG" group-title="Entertainment",arte (1080p)
+#EXTINF:-1 tvg-id="arte.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/arte%20%281080p%29.PNG" group-title="Entertainment",arte (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
-#EXTINF:-1 tvg-id="arte.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/arte HD.PNG" group-title="Entertainment",arte HD
+#EXTINF:-1 tvg-id="arte.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/arte%20HD.PNG" group-title="Entertainment",arte HD
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV2.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ATV2 HD [Geo-Blocked].PNG" group-title="General",ATV2 HD [Geo-Blocked]
+#EXTINF:-1 tvg-id="ATV2.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ATV2%20HD%20%5BGeo-Blocked%5D.PNG" group-title="General",ATV2 HD [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
-#EXTINF:-1 tvg-id="ATV.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ATV HD (1080p).PNG" group-title="General",ATV HD (1080p)
+#EXTINF:-1 tvg-id="ATV.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ATV%20HD%20%281080p%29.PNG" group-title="General",ATV HD (1080p)
 http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
-#EXTINF:-1 tvg-id="AugsburgTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Augsburg TV (1080p).PNG" group-title="General",Augsburg TV (1080p)
+#EXTINF:-1 tvg-id="AugsburgTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Augsburg%20TV%20%281080p%29.PNG" group-title="General",Augsburg TV (1080p)
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Avatar.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Avatar.PNG" group-title="Kids",Avatar
+#EXTINF:-1 tvg-id="Avatar.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Avatar.png" group-title="Kids",Avatar
 https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
-#EXTINF:-1 tvg-id="BadenTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Baden TV (1080p) [Not 24/7].PNG" group-title="General",Baden TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="BadenTV.de@SD" tvg-logo="" group-title="General",Baden TV (1080p) [Not 24/7]
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 tvg-id="BadenTVSud.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Baden TV Süd (480p).PNG" group-title="General",Baden TV Süd (480p)
+#EXTINF:-1 tvg-id="BadenTVSud.de@SD" tvg-logo="" group-title="General",Baden TV Süd (480p)
 https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCTravel.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/BBC Travel.PNG" group-title="Lifestyle",BBC Travel
+#EXTINF:-1 tvg-id="BBCTravel.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/BBC%20Travel.png" group-title="Lifestyle",BBC Travel
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
-#EXTINF:-1 tvg-id="BeverlyHills90210.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Beverly Hills 90210.PNG" group-title="Series",Beverly Hills 90210
+#EXTINF:-1 tvg-id="BeverlyHills90210.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Beverly%20Hills%2090210.png" group-title="Series",Beverly Hills 90210
 https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
-#EXTINF:-1 tvg-id="BibelTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Bibel TV (720p).PNG" group-title="Undefined",Bibel TV (720p)
+#EXTINF:-1 tvg-id="BibelTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Bibel%20TV%20%28720p%29.PNG" group-title="Undefined",Bibel TV (720p)
 https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BibelTVImpuls.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Bibel TV Impuls (720p).PNG" group-title="Undefined",Bibel TV Impuls (720p)
+#EXTINF:-1 tvg-id="BibelTVImpuls.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Bibel%20TV%20Impuls%20%28720p%29.PNG" group-title="Undefined",Bibel TV Impuls (720p)
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="BibelTVMusik.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Bibel TV Musik (720p).PNG" group-title="Music",Bibel TV Musik (720p)
+#EXTINF:-1 tvg-id="BibelTVMusik.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Bibel%20TV%20Musik%20%28720p%29.PNG" group-title="Music",Bibel TV Musik (720p)
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="BLKRegionalTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/BLK Regional TV (1080p).PNG" group-title="Undefined",BLK Regional TV (1080p)
+#EXTINF:-1 tvg-id="BLKRegionalTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/BLK%20Regional%20TV%20%281080p%29.PNG" group-title="Undefined",BLK Regional TV (1080p)
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-id="BRFernsehen.de@Nord" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/BR Fernsehen Nord (720p).PNG" group-title="Undefined",BR Fernsehen Nord (720p)
+#EXTINF:-1 tvg-id="BRFernsehen.de@Nord" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/BR%20Fernsehen%20Nord%20%28720p%29.PNG" group-title="Undefined",BR Fernsehen Nord (720p)
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="BRFernsehen.de@Sud" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/BR Fernsehen Sud (1080p) [Geo-Blocked].PNG" group-title="Undefined",BR Fernsehen Sud (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/BR%20Fernsehen%20Sud%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",BR Fernsehen Sud (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
-#EXTINF:-1 tvg-id="CanalAlphaJura.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Canal Alpha Jura (1080p).PNG" group-title="Undefined",Canal Alpha Jura (1080p)
+#EXTINF:-1 tvg-id="CanalAlphaJura.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Canal%20Alpha%20Jura%20%281080p%29.PNG" group-title="Undefined",Canal Alpha Jura (1080p)
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Canal Alpha Neuchatel (1080p) [Not 24/7].PNG" group-title="Undefined",Canal Alpha Neuchatel (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch@SD" tvg-logo="" group-title="Undefined",Canal Alpha Neuchatel (1080p) [Not 24/7]
 https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
-#EXTINF:-1 tvg-id="CCPlutoTV.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/CC Pluto TV.PNG" group-title="Comedy",CC Pluto TV
+#EXTINF:-1 tvg-id="CCPlutoTV.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/CC%20Pluto%20TV.png" group-title="Comedy",CC Pluto TV
 https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
-#EXTINF:-1 tvg-id="ChaosCity.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Chaos City.PNG" group-title="Series",Chaos City
+#EXTINF:-1 tvg-id="ChaosCity.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Chaos%20City.png" group-title="Series",Chaos City
 https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
-#EXTINF:-1 tvg-id="Cheers.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Cheers.PNG" group-title="Series",Cheers
+#EXTINF:-1 tvg-id="Cheers.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Cheers.png" group-title="Series",Cheers
 https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
-#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Chemnitz Fernsehen (1080p).PNG" group-title="Undefined",Chemnitz Fernsehen (1080p)
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Chemnitz%20Fernsehen%20%281080p%29.PNG" group-title="Undefined",Chemnitz Fernsehen (1080p)
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Comedy Central HD (1080p) [Geo-Blocked].PNG" group-title="Comedy",Comedy Central HD (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="ComedyCentral.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Comedy%20Central%20HD%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Comedy",Comedy Central HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Comedy Central South Park.PNG" group-title="Series",Comedy Central South Park
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Comedy%20Central%20South%20Park.png" group-title="Series",Comedy Central South Park
 https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
-#EXTINF:-1 tvg-id="DasErste.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Das Erste (720p).PNG" group-title="General",Das Erste (720p)
+#EXTINF:-1 tvg-id="DasErste.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Das%20Erste%20%28720p%29.PNG" group-title="General",Das Erste (720p)
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DasErste.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Das Erste HD (1080p).PNG" group-title="General",Das Erste HD (1080p)
+#EXTINF:-1 tvg-id="DasErste.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Das%20Erste%20HD%20%281080p%29.PNG" group-title="General",Das Erste HD (1080p)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 tvg-id="DASDING908.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/DASDING 90.8 (720p).PNG" group-title="Music",DASDING 90.8 (720p)
+#EXTINF:-1 tvg-id="DASDING908.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/DASDING%2090.8%20%28720p%29.PNG" group-title="Music",DASDING 90.8 (720p)
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:-1 tvg-id="DeluxeLounge.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Deluxe Lounge (720p).PNG" group-title="Music",Deluxe Lounge (720p)
+#EXTINF:-1 tvg-id="DeluxeLounge.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Deluxe%20Lounge%20%28720p%29.PNG" group-title="Music",Deluxe Lounge (720p)
 https://jmp2.uk/stvp-CHAJ0500413A
-#EXTINF:-1 tvg-id="DeluxeMusic.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Deluxe Music (720p).PNG" group-title="Music",Deluxe Music (720p)
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Deluxe%20Music%20%28720p%29.PNG" group-title="Music",Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeRap.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Deluxe Rap (1080p).PNG" group-title="Music",Deluxe Rap (1080p)
+#EXTINF:-1 tvg-id="DeluxeRap.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Deluxe%20Rap%20%281080p%29.PNG" group-title="Music",Deluxe Rap (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-id="DHA.tr@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/DHA (720p) [Not 24/7].PNG" group-title="News",DHA (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DHA.tr@SD" tvg-logo="" group-title="News",DHA (720p) [Not 24/7]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 tvg-id="DieNeueZeitTV.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Die Neue Zeit (576p).PNG" group-title="Religious",Die Neue Zeit (576p)
+#EXTINF:-1 tvg-id="DieNeueZeitTV.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Die%20Neue%20Zeit%20%28576p%29.PNG" group-title="Religious",Die Neue Zeit (576p)
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Disney Channel (576p) [Geo-Blocked].PNG" group-title="Kids",Disney Channel (576p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="" group-title="Kids",Disney Channel (576p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1 tvg-id="DMF.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/DMF (1080p) [Not 24/7].PNG" group-title="Music",DMF (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="DMF.de@SD" tvg-logo="" group-title="Music",DMF (1080p) [Not 24/7]
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Dokusat (1080p).PNG" group-title="Documentary",Dokusat (1080p)
+#EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Dokusat%20%281080p%29.PNG" group-title="Documentary",Dokusat (1080p)
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Dresden Fernsehen (1080p) [Not 24/7].PNG" group-title="Undefined",Dresden Fernsehen (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de@SD" tvg-logo="" group-title="Undefined",Dresden Fernsehen (1080p) [Not 24/7]
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="EchtJetztTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/EchtJetzt TV (720p).PNG" group-title="Religious",EchtJetzt TV (720p)
+#EXTINF:-1 tvg-id="EchtJetztTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/EchtJetzt%20TV%20%28720p%29.PNG" group-title="Religious",EchtJetzt TV (720p)
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="emsTVLingen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ems TV Lingen (720p).PNG" group-title="General",ems TV Lingen (720p)
+#EXTINF:-1 tvg-id="emsTVLingen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ems%20TV%20Lingen%20%28720p%29.PNG" group-title="General",ems TV Lingen (720p)
 https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ErzTVStollberg.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Erz-TV Stollberg (576p).PNG" group-title="General",Erz-TV Stollberg (576p)
+#EXTINF:-1 tvg-id="ErzTVStollberg.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Erz-TV%20Stollberg%20%28576p%29.PNG" group-title="General",Erz-TV Stollberg (576p)
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Euronews German (720p).PNG" group-title="News",Euronews German (720p)
+#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Euronews%20German%20%28720p%29.PNG" group-title="News",Euronews German (720p)
 https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/EWTN Germany (720p).PNG" group-title="Religious",EWTN Germany (720p)
+#EXTINF:-1 tvg-id="EWTN.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/EWTN%20Germany%20%28720p%29.PNG" group-title="Religious",EWTN Germany (720p)
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/FIFA+ German (720p).PNG" group-title="Sports",FIFA+ German (720p)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/FIFA%2B%20German%20%28720p%29.png" group-title="Sports",FIFA+ German (720p)
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="Filstalwelle.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Filstalwelle (1080p).PNG" group-title="General",Filstalwelle (1080p)
+#EXTINF:-1 tvg-id="Filstalwelle.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Filstalwelle%20%281080p%29.PNG" group-title="General",Filstalwelle (1080p)
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="FinestTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Finest TV (288p) [Not 24/7].PNG" group-title="Music",Finest TV (288p) [Not 24/7]
+#EXTINF:-1 tvg-id="FinestTV.de@SD" tvg-logo="" group-title="Music",Finest TV (288p) [Not 24/7]
 https://media.finest.tv/hls/live.m3u8
-#EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/FOLX Music (1080p).PNG" group-title="Music",FOLX Music (1080p)
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/FOLX%20Music%20%281080p%29.PNG" group-title="Music",FOLX Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
-#EXTINF:-1 tvg-id="FolxSlovenija.si@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Folx Slovenija (1080p).PNG" group-title="Music",Folx Slovenija (1080p)
+#EXTINF:-1 tvg-id="FolxSlovenija.si@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Folx%20Slovenija%20%281080p%29.PNG" group-title="Music",Folx Slovenija (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
-#EXTINF:-1 tvg-id="FrankenFernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Franken Fernsehen (Nürnberg) (1080p) [Not 24/7].PNG" group-title="General",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="FrankenFernsehen.de@SD" tvg-logo="" group-title="General",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="FS1Salzburg.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/FS1 Salzburg (720p) [Not 24/7].PNG" group-title="General",FS1 Salzburg (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FS1Salzburg.at@SD" tvg-logo="" group-title="General",FS1 Salzburg (720p) [Not 24/7]
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Grjngo Western Movies (720p).PNG" group-title="Movies",Grjngo Western Movies (720p)
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Grjngo%20Western%20Movies%20%28720p%29.PNG" group-title="Movies",Grjngo Western Movies (720p)
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Hamburg1.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Hamburg 1 (1080p).PNG" group-title="Undefined",Hamburg 1 (1080p)
+#EXTINF:-1 tvg-id="Hamburg1.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Hamburg%201%20%281080p%29.PNG" group-title="Undefined",Hamburg 1 (1080p)
 https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="Handystar.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Handystar (404p) [Not 24/7].PNG" group-title="Shop",Handystar (404p) [Not 24/7]
+#EXTINF:-1 tvg-id="Handystar.de@SD" tvg-logo="" group-title="Shop",Handystar (404p) [Not 24/7]
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
-#EXTINF:-1 tvg-id="HitradioO3.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Hitradio Ö3 (720p) [Not 24/7].PNG" group-title="Music",Hitradio Ö3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="HitradioO3.at@SD" tvg-logo="" group-title="Music",Hitradio Ö3 (720p) [Not 24/7]
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-#EXTINF:-1 tvg-id="HopeChannelGerman.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Hope Channel German (1080p).PNG" group-title="Religious",Hope Channel German (1080p)
+#EXTINF:-1 tvg-id="HopeChannelGerman.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Hope%20Channel%20German%20%281080p%29.PNG" group-title="Religious",Hope Channel German (1080p)
 https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
-#EXTINF:-1 tvg-id="hrfernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/hr-fernsehen (1080p).PNG" group-title="General",hr-fernsehen (1080p)
+#EXTINF:-1 tvg-id="hrfernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/hr-fernsehen%20%281080p%29.PNG" group-title="General",hr-fernsehen (1080p)
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1 tvg-id="hrfernsehen.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/hr-fernsehen HD.PNG" group-title="General",hr-fernsehen HD
+#EXTINF:-1 tvg-id="hrfernsehen.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/hr-fernsehen%20HD.PNG" group-title="General",hr-fernsehen HD
 https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="HSE.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/HSE (1080p).PNG" group-title="Shop",HSE (1080p)
+#EXTINF:-1 tvg-id="HSE.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/HSE%20%281080p%29.PNG" group-title="Shop",HSE (1080p)
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:-1 tvg-id="HSEExtra.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/HSE24 Extra (1080p).PNG" group-title="Shop",HSE24 Extra (1080p)
+#EXTINF:-1 tvg-id="HSEExtra.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/HSE24%20Extra%20%281080p%29.PNG" group-title="Shop",HSE24 Extra (1080p)
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
-#EXTINF:-1 tvg-id="HSETrend.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/HSE24 Trend (576p).PNG" group-title="Shop",HSE24 Trend (576p)
+#EXTINF:-1 tvg-id="HSETrend.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/HSE24%20Trend%20%28576p%29.PNG" group-title="Shop",HSE24 Trend (576p)
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
-#EXTINF:-1 tvg-id="iCarly.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/iCarly.PNG" group-title="Series",iCarly
+#EXTINF:-1 tvg-id="iCarly.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/iCarly.png" group-title="Series",iCarly
 https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
-#EXTINF:-1 tvg-id="IcePilots.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Ice Pilots.PNG" group-title="Series",Ice Pilots
+#EXTINF:-1 tvg-id="IcePilots.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Ice%20Pilots.png" group-title="Series",Ice Pilots
 https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
-#EXTINF:-1 tvg-id="ImmaculataTV.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Immaculata TV (720p).PNG" group-title="Religious",Immaculata TV (720p)
+#EXTINF:-1 tvg-id="ImmaculataTV.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Immaculata%20TV%20%28720p%29.PNG" group-title="Religious",Immaculata TV (720p)
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="iSTUFF.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/iSTUFF (720p) [Not 24/7].PNG" group-title="Education",iSTUFF (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="iSTUFF.de@SD" tvg-logo="" group-title="Education",iSTUFF (720p) [Not 24/7]
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
-#EXTINF:-1 tvg-id="Juwelo.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Juwelo (720p).PNG" group-title="Shop",Juwelo (720p)
+#EXTINF:-1 tvg-id="Juwelo.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Juwelo%20%28720p%29.PNG" group-title="Shop",Juwelo (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
-#EXTINF:-1 tvg-id="Juwelo.it@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Juwelo Italia (480p).PNG" group-title="Shop",Juwelo Italia (480p)
+#EXTINF:-1 tvg-id="Juwelo.it@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Juwelo%20Italia%20%28480p%29.PNG" group-title="Shop",Juwelo Italia (480p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
 #EXTINF:-1 tvg-id="K19.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/K19.PNG" group-title="Sports",K19
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/K-TV (720p).PNG" group-title="Religious",K-TV (720p)
+#EXTINF:-1 tvg-id="KTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/K-TV%20%28720p%29.PNG" group-title="Religious",K-TV (720p)
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-id="kabeleins.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/kabel eins.PNG" group-title="Entertainment",kabel eins
+#EXTINF:-1 tvg-id="kabeleins.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/kabel%20eins.PNG" group-title="Entertainment",kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/kabel eins Doku (576p).PNG" group-title="Documentary",kabel eins Doku (576p)
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/kabel%20eins%20Doku%20%28576p%29.PNG" group-title="Documentary",kabel eins Doku (576p)
 http://79.232.88.203:9981/stream/channelid/81078517
-#EXTINF:-1 tvg-id="Kanal9.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Kanal 9 auf Deutsch (1080p).PNG" group-title="General",Kanal 9 auf Deutsch (1080p)
+#EXTINF:-1 tvg-id="Kanal9.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Kanal%209%20auf%20Deutsch%20%281080p%29.PNG" group-title="General",Kanal 9 auf Deutsch (1080p)
 https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
-#EXTINF:-1 tvg-id="Kanal12SprembergTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Kanal12 Spremberg TV (404p) [Not 24/7].PNG" group-title="General",Kanal12 Spremberg TV (404p) [Not 24/7]
+#EXTINF:-1 tvg-id="Kanal12SprembergTV.de@SD" tvg-logo="" group-title="General",Kanal12 Spremberg TV (404p) [Not 24/7]
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KaufBeiTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/KaufBei TV (576p).PNG" group-title="Shop",KaufBei TV (576p)
+#EXTINF:-1 tvg-id="KaufBeiTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/KaufBei%20TV%20%28576p%29.PNG" group-title="Shop",KaufBei TV (576p)
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
-#EXTINF:-1 tvg-id="KiKA.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/KiKA (1080p) [Not 24/7].PNG" group-title="Kids",KiKA (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KiKA.de@SD" tvg-logo="" group-title="Kids",KiKA (1080p) [Not 24/7]
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
-#EXTINF:-1 tvg-id="KiKA.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/KiKA HD.PNG" group-title="Kids",KiKA HD
+#EXTINF:-1 tvg-id="KiKA.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/KiKA%20HD.PNG" group-title="Kids",KiKA HD
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="KITTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/KIT-TV (720p).PNG" group-title="Religious",KIT-TV (720p)
+#EXTINF:-1 tvg-id="KITTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/KIT-TV%20%28720p%29.PNG" group-title="Religious",KIT-TV (720p)
 https://everest.pa-hosting.de:3591/live/joseflive.m3u8
-#EXTINF:-1 tvg-id="Kronehit.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Kronehit (1080p).PNG" group-title="Music",Kronehit (1080p)
+#EXTINF:-1 tvg-id="Kronehit.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Kronehit%20%281080p%29.PNG" group-title="Music",Kronehit (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="KulturMD.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/KulturMD (1080p).PNG" group-title="Culture",KulturMD (1080p)
+#EXTINF:-1 tvg-id="KulturMD.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/KulturMD%20%281080p%29.PNG" group-title="Culture",KulturMD (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="LTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/L-TV (720p).PNG" group-title="General",L-TV (720p)
+#EXTINF:-1 tvg-id="LTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/L-TV%20%28720p%29.PNG" group-title="General",L-TV (720p)
 https://live2.telvi.de/hls/l-tv_s1.m3u8
-#EXTINF:-1 tvg-id="labor14.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/labor14 (720p).PNG" group-title="Undefined",labor14 (720p)
+#EXTINF:-1 tvg-id="labor14.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/labor14%20%28720p%29.PNG" group-title="Undefined",labor14 (720p)
 https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LandleTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Ländle TV (1080p) [Not 24/7].PNG" group-title="General",Ländle TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="LandleTV.at@SD" tvg-logo="" group-title="General",Ländle TV (1080p) [Not 24/7]
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 tvg-id="Lausitzwelle.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Lausitzwelle (1080p).PNG" group-title="Music",Lausitzwelle (1080p)
+#EXTINF:-1 tvg-id="Lausitzwelle.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Lausitzwelle%20%281080p%29.PNG" group-title="Music",Lausitzwelle (1080p)
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Leipzig Fernsehen (1080p).PNG" group-title="Undefined",Leipzig Fernsehen (1080p)
+#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Leipzig%20Fernsehen%20%281080p%29.PNG" group-title="Undefined",Leipzig Fernsehen (1080p)
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="LightChannel.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Light Channel (576p) [Not 24/7].PNG" group-title="Religious",Light Channel (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="LightChannel.de@SD" tvg-logo="" group-title="Religious",Light Channel (576p) [Not 24/7]
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveThePlanet.es@DE" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Love The Planet DE (1080p) [Geo-blocked].PNG" group-title="Documentary",Love The Planet DE (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoveThePlanet.es@DE" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Love%20The%20Planet%20DE%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="Documentary",Love The Planet DE (1080p) [Geo-blocked]
 https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MagentaMusik360.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Magenta Musik 360 (1080p).PNG" group-title="Music",Magenta Musik 360 (1080p)
+#EXTINF:-1 tvg-id="MagentaMusik360.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Magenta%20Musik%20360%20%281080p%29.PNG" group-title="Music",Magenta Musik 360 (1080p)
 https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
-#EXTINF:-1 tvg-id="MCTV.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MC TV (720p).PNG" group-title="Entertainment",MC TV (720p)
+#EXTINF:-1 tvg-id="MCTV.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MC%20TV%20%28720p%29.PNG" group-title="Entertainment",MC TV (720p)
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-id="MDF1.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MDF.1 (1080p).PNG" group-title="General",MDF.1 (1080p)
+#EXTINF:-1 tvg-id="MDF1.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MDF.1%20%281080p%29.PNG" group-title="General",MDF.1 (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehen.de@Sachsen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MDR Fernsehen Sachsen (1080p) [Geo-blocked].PNG" group-title="General",MDR Fernsehen Sachsen (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Sachsen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MDR%20Fernsehen%20Sachsen%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="General",MDR Fernsehen Sachsen (1080p) [Geo-blocked]
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehen.de@SachsenAnhalt" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MDR Fernsehen Sachsen-Anhalt (1080p) [Geo-blocked].PNG" group-title="General",MDR Fernsehen Sachsen-Anhalt (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MDRFernsehen.de@SachsenAnhalt" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MDR%20Fernsehen%20Sachsen-Anhalt%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="General",MDR Fernsehen Sachsen-Anhalt (1080p) [Geo-blocked]
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MDR Fernsehen Thüringen (1080p) [Geo-blocked].PNG" group-title="General",MDR Fernsehen Thüringen (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen" tvg-logo="" group-title="General",MDR Fernsehen Thüringen (1080p) [Geo-blocked]
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
-#EXTINF:-1 tvg-id="Meteonews.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Meteonews (1080p).PNG" group-title="Weather",Meteonews (1080p)
+#EXTINF:-1 tvg-id="Meteonews.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Meteonews%20%281080p%29.PNG" group-title="Weather",Meteonews (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/More Than Sports TV (1080p).PNG" group-title="Sports",More Than Sports TV (1080p)
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/More%20Than%20Sports%20TV%20%281080p%29.PNG" group-title="Sports",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="Moviedome.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MOVIEDOME.PNG" group-title="Movies",MOVIEDOME
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
-#EXTINF:-1 tvg-id="MTA1World.uk@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTA1 World (720p).PNG" group-title="Religious",MTA1 World (720p)
+#EXTINF:-1 tvg-id="MTA1World.uk@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTA1%20World%20%28720p%29.PNG" group-title="Religious",MTA1 World (720p)
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
-#EXTINF:-1 tvg-id="MTA2Europe.uk@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTA2 Europe (720p).PNG" group-title="Religious",MTA2 Europe (720p)
+#EXTINF:-1 tvg-id="MTA2Europe.uk@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTA2%20Europe%20%28720p%29.PNG" group-title="Religious",MTA2 Europe (720p)
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVCatfishTVShow.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV Catfish TV Show.PNG" group-title="Series",MTV Catfish TV Show
+#EXTINF:-1 tvg-id="MTVCatfishTVShow.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV%20Catfish%20TV%20Show.png" group-title="Series",MTV Catfish TV Show
 https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
-#EXTINF:-1 tvg-id="MTVDating.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV Dating.PNG" group-title="Series",MTV Dating
+#EXTINF:-1 tvg-id="MTVDating.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV%20Dating.png" group-title="Series",MTV Dating
 https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
-#EXTINF:-1 tvg-id="MTVPlutoTV.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV Pluto TV.PNG" group-title="Entertainment",MTV Pluto TV
+#EXTINF:-1 tvg-id="MTVPlutoTV.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV%20Pluto%20TV.png" group-title="Entertainment",MTV Pluto TV
 https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV Ridiculousness.PNG" group-title="Entertainment",MTV Ridiculousness
+#EXTINF:-1 tvg-id="MTVRidiculousness.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV%20Ridiculousness.png" group-title="Entertainment",MTV Ridiculousness
 https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
-#EXTINF:-1 tvg-id="MTVTeenMom.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV Teen Mom.PNG" group-title="Series",MTV Teen Mom
+#EXTINF:-1 tvg-id="MTVTeenMom.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV%20Teen%20Mom.png" group-title="Series",MTV Teen Mom
 https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
-#EXTINF:-1 tvg-id="MTVTheShores.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV The Shores.PNG" group-title="Series",MTV The Shores
+#EXTINF:-1 tvg-id="MTVTheShores.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/MTV%20The%20Shores.png" group-title="Series",MTV The Shores
 https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
-#EXTINF:-1 tvg-id="MunchenTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/München TV (1080p) [Not 24/7].PNG" group-title="General",München TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MunchenTV.de@SD" tvg-logo="" group-title="General",München TV (1080p) [Not 24/7]
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/N24 Doku.PNG" group-title="Documentary",N24 Doku
+#EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/N24%20Doku.PNG" group-title="Documentary",N24 Doku
 https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
-#EXTINF:-1 tvg-id="ntv.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/n-tv (1080p) [Geo-Blocked].PNG" group-title="General",n-tv (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="ntv.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/n-tv%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="General",n-tv (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
-#EXTINF:-1 tvg-id="Nachrichten360.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Nachrichten 360 (1080p) [Geo-blocked].PNG" group-title="News",Nachrichten 360 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Nachrichten360.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Nachrichten%20360%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="News",Nachrichten 360 (1080p) [Geo-blocked]
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
-#EXTINF:-1 tvg-id="Naruto.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Naruto.PNG" group-title="Animation",Naruto
+#EXTINF:-1 tvg-id="Naruto.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Naruto.png" group-title="Animation",Naruto
 https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
-#EXTINF:-1 tvg-id="NBC1.na@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NBC 1.PNG" group-title="General",NBC 1
+#EXTINF:-1 tvg-id="NBC1.na@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NBC%201.PNG" group-title="General",NBC 1
 https://hls2.nbcplus.na/hls/high_nbc1.m3u8
-#EXTINF:-1 tvg-id="NBC2.na@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NBC 2.PNG" group-title="News",NBC 2
+#EXTINF:-1 tvg-id="NBC2.na@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NBC%202.PNG" group-title="News",NBC 2
 https://hls2.nbcplus.na/hls/high_nbc2.m3u8
-#EXTINF:-1 tvg-id="NBC3.na@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NBC 3 (480p).PNG" group-title="Entertainment",NBC 3 (480p)
+#EXTINF:-1 tvg-id="NBC3.na@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NBC%203%20%28480p%29.PNG" group-title="Entertainment",NBC 3 (480p)
 https://hls2.nbcplus.na/hls/high_nbc3.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NDR Fernsehen International (720p).PNG" group-title="General",NDR Fernsehen International (720p)
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NDR%20Fernsehen%20International%20%28720p%29.PNG" group-title="General",NDR Fernsehen International (720p)
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NDR Hamburg (720p).PNG" group-title="General",NDR Hamburg (720p)
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NDR%20Hamburg%20%28720p%29.PNG" group-title="General",NDR Hamburg (720p)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de@MecklenburgVorpommern" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NDR Mecklenburg-Vorpommern (720p).PNG" group-title="General",NDR Mecklenburg-Vorpommern (720p)
+#EXTINF:-1 tvg-id="NDRFernsehen.de@MecklenburgVorpommern" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NDR%20Mecklenburg-Vorpommern%20%28720p%29.PNG" group-title="General",NDR Mecklenburg-Vorpommern (720p)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de@Niedersachsen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NDR Niedersachsen (720p).PNG" group-title="General",NDR Niedersachsen (720p)
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Niedersachsen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NDR%20Niedersachsen%20%28720p%29.PNG" group-title="General",NDR Niedersachsen (720p)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de@SchleswigHolstein" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NDR Schleswig-Holstein (720p).PNG" group-title="General",NDR Schleswig-Holstein (720p)
+#EXTINF:-1 tvg-id="NDRFernsehen.de@SchleswigHolstein" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NDR%20Schleswig-Holstein%20%28720p%29.PNG" group-title="General",NDR Schleswig-Holstein (720p)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Nick Germany (1080p) [Geo-blocked].PNG" group-title="Kids",Nick Germany (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Nick%20Germany%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="Kids",Nick Germany (1080p) [Geo-blocked]
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Nick/Comedy Central +1 HD (1080p) [Geo-Blocked].PNG" group-title="Comedy;Kids",Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD" tvg-logo="" group-title="Comedy;Kids",Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
-#EXTINF:-1 tvg-id="NiederbayernTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Niederbayern TV (720p).PNG" group-title="General",Niederbayern TV (720p)
+#EXTINF:-1 tvg-id="NiederbayernTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Niederbayern%20TV%20%28720p%29.PNG" group-title="General",Niederbayern TV (720p)
 https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
-#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Niederbayern TV Deggendorf & Straubing (1080p).PNG" group-title="General",Niederbayern TV Deggendorf & Straubing (1080p)
+#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Niederbayern%20TV%20Deggendorf%20%26%20Straubing%20%281080p%29.PNG" group-title="General",Niederbayern TV Deggendorf & Straubing (1080p)
 https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
-#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Niederbayern TV Landshut (1080p).PNG" group-title="General",Niederbayern TV Landshut (1080p)
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Niederbayern%20TV%20Landshut%20%281080p%29.PNG" group-title="General",Niederbayern TV Landshut (1080p)
 https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
-#EXTINF:-1 tvg-id="NiederbayernTVPassau.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Niederbayern TV Passau (1080p).PNG" group-title="General",Niederbayern TV Passau (1080p)
+#EXTINF:-1 tvg-id="NiederbayernTVPassau.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Niederbayern%20TV%20Passau%20%281080p%29.PNG" group-title="General",Niederbayern TV Passau (1080p)
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
-#EXTINF:-1 tvg-id="Nitro.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Nitro HD (1080p) [Geo-Blocked].PNG" group-title="Entertainment",Nitro HD (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="Nitro.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Nitro%20HD%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Entertainment",Nitro HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
-#EXTINF:-1 tvg-id="noa4Hamburg.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Noa 4 Hamburg (1080p).PNG" group-title="General",Noa 4 Hamburg (1080p)
+#EXTINF:-1 tvg-id="noa4Hamburg.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Noa%204%20Hamburg%20%281080p%29.PNG" group-title="General",Noa 4 Hamburg (1080p)
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="noa4Norderstedt.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Noa 4 Norderstedt (1080p).PNG" group-title="General",Noa 4 Norderstedt (1080p)
+#EXTINF:-1 tvg-id="noa4Norderstedt.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Noa%204%20Norderstedt%20%281080p%29.PNG" group-title="General",Noa 4 Norderstedt (1080p)
 https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="NRWision.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NRWision (1080p).PNG" group-title="Education",NRWision (1080p)
+#EXTINF:-1 tvg-id="NRWision.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/NRWision%20%281080p%29.PNG" group-title="Education",NRWision (1080p)
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="OberpfalzTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Oberpfalz TV (1080p).PNG" group-title="General",Oberpfalz TV (1080p)
+#EXTINF:-1 tvg-id="OberpfalzTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Oberpfalz%20TV%20%281080p%29.PNG" group-title="General",Oberpfalz TV (1080p)
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="OFTVOffenbach.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OF-TV Offenbach (720p).PNG" group-title="General",OF-TV Offenbach (720p)
+#EXTINF:-1 tvg-id="OFTVOffenbach.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OF-TV%20Offenbach%20%28720p%29.PNG" group-title="General",OF-TV Offenbach (720p)
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1 tvg-id="OK4.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK4 (720p) [Geo-blocked].PNG" group-title="General",OK4 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OK4.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK4%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",OK4 (720p) [Geo-blocked]
 https://s.ok54.de/abr_ok4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="OK54.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK54 (720p) [Geo-blocked].PNG" group-title="General",OK54 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OK54.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK54%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",OK54 (720p) [Geo-blocked]
 https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="OKDessau.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Dessau (1080p) [Not 24/7].PNG" group-title="General",OK Dessau (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="OKDessau.de@SD" tvg-logo="" group-title="General",OK Dessau (1080p) [Not 24/7]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKFlensburg.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Flensburg (576p).PNG" group-title="General",OK Flensburg (576p)
+#EXTINF:-1 tvg-id="OKFlensburg.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK%20Flensburg%20%28576p%29.PNG" group-title="General",OK Flensburg (576p)
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-id="OKKaiserslautern.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Kaiserslautern (720p) [Geo-blocked].PNG" group-title="General",OK Kaiserslautern (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OKKaiserslautern.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK%20Kaiserslautern%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",OK Kaiserslautern (720p) [Geo-blocked]
 https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKKassel.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Kassel (720p) [Geo-blocked].PNG" group-title="General",OK Kassel (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OKKassel.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK%20Kassel%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",OK Kassel (720p) [Geo-blocked]
 https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-id="OKKiel.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Kiel (576p).PNG" group-title="General",OK Kiel (576p)
+#EXTINF:-1 tvg-id="OKKiel.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK%20Kiel%20%28576p%29.PNG" group-title="General",OK Kiel (576p)
 https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
-#EXTINF:-1 tvg-id="OKMagdeburg.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Magdeburg (1080p).PNG" group-title="General",OK Magdeburg (1080p)
+#EXTINF:-1 tvg-id="OKMagdeburg.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK%20Magdeburg%20%281080p%29.PNG" group-title="General",OK Magdeburg (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Merseburg-Querfurt (1080p) [Not 24/7].PNG" group-title="General",OK Merseburg-Querfurt (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de@SD" tvg-logo="" group-title="General",OK Merseburg-Querfurt (1080p) [Not 24/7]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKRheinMain.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Rhein-Main (576p) [Geo-blocked].PNG" group-title="General",OK Rhein-Main (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OKRheinMain.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK%20Rhein-Main%20%28576p%29%20%5BGeo-blocked%5D.PNG" group-title="General",OK Rhein-Main (576p) [Geo-blocked]
 https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:-1 tvg-id="OKSalzwedel.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Salzwedel (1080p) [Not 24/7].PNG" group-title="General",OK Salzwedel (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="OKSalzwedel.de@SD" tvg-logo="" group-title="General",OK Salzwedel (1080p) [Not 24/7]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKStendal.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Stendal (1080p).PNG" group-title="General",OK Stendal (1080p)
+#EXTINF:-1 tvg-id="OKStendal.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK%20Stendal%20%281080p%29.PNG" group-title="General",OK Stendal (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKTrier.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Trier (720p) [Geo-blocked].PNG" group-title="General",OK Trier (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OKTrier.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK%20Trier%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",OK Trier (720p) [Geo-blocked]
 https://s.ok54.de/ott/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Weinstraße (Neustadt) (432p) [Geo-blocked].PNG" group-title="General",OK Weinstraße (Neustadt) (432p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK%20Weinstra%C3%9Fe%20%28Neustadt%29%20%28432p%29%20%5BGeo-blocked%5D.PNG" group-title="General",OK Weinstraße (Neustadt) (432p) [Geo-blocked]
 https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
-#EXTINF:-1 tvg-id="OKWernigerode.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK Wernigerode (1080p).PNG" group-title="General",OK Wernigerode (1080p)
+#EXTINF:-1 tvg-id="OKWernigerode.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK%20Wernigerode%20%281080p%29.PNG" group-title="General",OK Wernigerode (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKTVLudwigshafen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK-TV Ludwigshafen (720p) [Geo-blocked].PNG" group-title="General",OK-TV Ludwigshafen (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OKTVLudwigshafen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/OK-TV%20Ludwigshafen%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",OK-TV Ludwigshafen (720p) [Geo-blocked]
 https://s.ok54.de/oklu/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Okto.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Okto TV (1080p).PNG" group-title="General",Okto TV (1080p)
+#EXTINF:-1 tvg-id="Okto.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Okto%20TV%20%281080p%29.PNG" group-title="General",Okto TV (1080p)
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="OneMusicTelevision.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ONE1 Music (1080p).PNG" group-title="Music",ONE1 Music (1080p)
+#EXTINF:-1 tvg-id="OneMusicTelevision.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ONE1%20Music%20%281080p%29.PNG" group-title="Music",ONE1 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
-#EXTINF:-1 tvg-id="OneAdria.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/One Adria (1080p).PNG" group-title="Music",One Adria (1080p)
+#EXTINF:-1 tvg-id="OneAdria.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/One%20Adria%20%281080p%29.PNG" group-title="Music",One Adria (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
-#EXTINF:-1 tvg-id="One.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/One HD (1080p) [Geo-Blocked].PNG" group-title="Entertainment",One HD (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="One.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/One%20HD%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Entertainment",One HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
-#EXTINF:-1 tvg-id="ORF1.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF 1.PNG" group-title="General",ORF 1
+#EXTINF:-1 tvg-id="ORF1.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF%201.PNG" group-title="General",ORF 1
 https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ORF1.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF 1 HD (720p) [Geo-Blocked].PNG" group-title="General",ORF 1 HD (720p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="ORF1.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF%201%20HD%20%28720p%29%20%5BGeo-Blocked%5D.PNG" group-title="General",ORF 1 HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
-#EXTINF:-1 tvg-id="ORF2.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF 2.PNG" group-title="General",ORF 2
+#EXTINF:-1 tvg-id="ORF2.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF%202.PNG" group-title="General",ORF 2
 https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ORF2Tirol.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF 2 Tirol HD (720p) [Geo-Blocked].PNG" group-title="General",ORF 2 Tirol HD (720p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="ORF2Tirol.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF%202%20Tirol%20HD%20%28720p%29%20%5BGeo-Blocked%5D.PNG" group-title="General",ORF 2 Tirol HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-#EXTINF:-1 tvg-id="ORF2Wien.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF 2 Wien (1080p).PNG" group-title="General",ORF 2 Wien (1080p)
+#EXTINF:-1 tvg-id="ORF2Wien.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF%202%20Wien%20%281080p%29.PNG" group-title="General",ORF 2 Wien (1080p)
 http://79.127.207.193/ORF2/playlist.m3u8
-#EXTINF:-1 tvg-id="ORFIII.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF III HD (720p).PNG" group-title="Culture",ORF III HD (720p)
+#EXTINF:-1 tvg-id="ORFIII.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF%20III%20HD%20%28720p%29.PNG" group-title="Culture",ORF III HD (720p)
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
-#EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF Kids (720p).PNG" group-title="Kids",ORF Kids (720p)
+#EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ORF%20Kids%20%28720p%29.PNG" group-title="Kids",ORF Kids (720p)
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-#EXTINF:-1 tvg-id="P3tv.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/P3tv (720p) [Not 24/7].PNG" group-title="General",P3tv (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="P3tv.at@SD" tvg-logo="" group-title="General",P3tv (720p) [Not 24/7]
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Parlamentsfernsehen 1 (1080p) [Not 24/7].PNG" group-title="Legislative",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" tvg-logo="" group-title="Legislative",Parlamentsfernsehen 1 (1080p) [Not 24/7]
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Parlamentsfernsehen 2 (1080p) [Not 24/7].PNG" group-title="Legislative",Parlamentsfernsehen 2 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de@SD" tvg-logo="" group-title="Legislative",Parlamentsfernsehen 2 (1080p) [Not 24/7]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen3.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Parlamentsfernsehen 3 (1080p) [Not 24/7].PNG" group-title="Legislative",Parlamentsfernsehen 3 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Parlamentsfernsehen3.de@SD" tvg-logo="" group-title="Legislative",Parlamentsfernsehen 3 (1080p) [Not 24/7]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Parlamentsfernsehen 4 (1080p) [Not 24/7].PNG" group-title="Legislative",Parlamentsfernsehen 4 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de@SD" tvg-logo="" group-title="Legislative",Parlamentsfernsehen 4 (1080p) [Not 24/7]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PeerTVSudtirol.it@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Peer TV Südtirol (1080p).PNG" group-title="Outdoor;Travel",Peer TV Südtirol (1080p)
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it@SD" tvg-logo="" group-title="Outdoor;Travel",Peer TV Südtirol (1080p)
 https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1 tvg-id="phoenix.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Phoenix (720p) [Geo-blocked].PNG" group-title="Undefined",Phoenix (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="phoenix.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Phoenix%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",Phoenix (720p) [Geo-blocked]
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnimals.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Animals.PNG" group-title="Documentary",Pluto TV Animals
+#EXTINF:-1 tvg-id="PlutoTVAnimals.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Animals.png" group-title="Documentary",Pluto TV Animals
 https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Anime.PNG" group-title="Animation",Pluto TV Anime
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Anime.png" group-title="Animation",Pluto TV Anime
 https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCrime.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Crime.PNG" group-title="Documentary",Pluto TV Crime
+#EXTINF:-1 tvg-id="PlutoTVCrime.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Crime.png" group-title="Documentary",Pluto TV Crime
 https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
-#EXTINF:-1 tvg-id="PlutoTVExplore.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Explore.PNG" group-title="Undefined",Pluto TV Explore
+#EXTINF:-1 tvg-id="PlutoTVExplore.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Explore.png" group-title="Undefined",Pluto TV Explore
 https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFood.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Food.PNG" group-title="Lifestyle",Pluto TV Food
+#EXTINF:-1 tvg-id="PlutoTVFood.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Food.png" group-title="Lifestyle",Pluto TV Food
 https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistory.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV History.PNG" group-title="Documentary",Pluto TV History
+#EXTINF:-1 tvg-id="PlutoTVHistory.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20History.png" group-title="Documentary",Pluto TV History
 https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.us@DACH" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Horror.PNG" group-title="Movies",Pluto TV Horror
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@DACH" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Horror.png" group-title="Movies",Pluto TV Horror
 https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKultfilme.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Kultfilme.PNG" group-title="Movies",Pluto TV Kultfilme
+#EXTINF:-1 tvg-id="PlutoTVKultfilme.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Kultfilme.png" group-title="Movies",Pluto TV Kultfilme
 https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMovies.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Movies.PNG" group-title="Movies",Pluto TV Movies
+#EXTINF:-1 tvg-id="PlutoTVMovies.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Movies.png" group-title="Movies",Pluto TV Movies
 https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNature.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Nature.PNG" group-title="Outdoor",Pluto TV Nature
+#EXTINF:-1 tvg-id="PlutoTVNature.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Nature.png" group-title="Outdoor",Pluto TV Nature
 https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Paranormal.PNG" group-title="Documentary",Pluto TV Paranormal
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Paranormal.png" group-title="Documentary",Pluto TV Paranormal
 https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSitcoms.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Sitcoms.PNG" group-title="Comedy",Pluto TV Sitcoms
+#EXTINF:-1 tvg-id="PlutoTVSitcoms.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Sitcoms.png" group-title="Comedy",Pluto TV Sitcoms
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSpace.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Space.PNG" group-title="Science",Pluto TV Space
+#EXTINF:-1 tvg-id="PlutoTVSpace.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Space.png" group-title="Science",Pluto TV Space
 https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
-#EXTINF:-1 tvg-id="PlutoTVThrillers.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV Thriller.PNG" group-title="Movies",Pluto TV Thriller
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20Thriller.png" group-title="Movies",Pluto TV Thriller
 https://jmp2.uk/plu-5e1efdbf90ba3e0009d99082.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto TV True Crime.PNG" group-title="Series",Pluto TV True Crime
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Pluto%20TV%20True%20Crime.png" group-title="Series",Pluto TV True Crime
 https://jmp2.uk/plu-615333098185f00008715a56.m3u8
-#EXTINF:-1 tvg-id="ProSieben.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ProSieben (1080p).PNG" group-title="Undefined",ProSieben (1080p)
+#EXTINF:-1 tvg-id="ProSieben.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ProSieben%20%281080p%29.PNG" group-title="Undefined",ProSieben (1080p)
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ProSieben Maxx (576p).PNG" group-title="Undefined",ProSieben Maxx (576p)
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ProSieben%20Maxx%20%28576p%29.PNG" group-title="Undefined",ProSieben Maxx (576p)
 http://79.232.88.203:9981/stream/channelid/1038721938
-#EXTINF:-1 tvg-id="PUNKTumFernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/PUNKTum Fernsehen (1080p) [Not 24/7].PNG" group-title="Undefined",PUNKTum Fernsehen (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PUNKTumFernsehen.de@SD" tvg-logo="" group-title="Undefined",PUNKTum Fernsehen (1080p) [Not 24/7]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
-#EXTINF:-1 tvg-id="QS24tv.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/QS24.tv (1080p).PNG" group-title="Lifestyle",QS24.tv (1080p)
+#EXTINF:-1 tvg-id="QS24tv.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/QS24.tv%20%281080p%29.PNG" group-title="Lifestyle",QS24.tv (1080p)
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="QVCZwei.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/QVC 2 Germany (540p).PNG" group-title="Shop",QVC 2 Germany (540p)
+#EXTINF:-1 tvg-id="QVCZwei.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/QVC%202%20Germany%20%28540p%29.PNG" group-title="Shop",QVC 2 Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
-#EXTINF:-1 tvg-id="QVC.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/QVC Germany (720p).PNG" group-title="Shop",QVC Germany (720p)
+#EXTINF:-1 tvg-id="QVC.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/QVC%20Germany%20%28720p%29.PNG" group-title="Shop",QVC Germany (720p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
-#EXTINF:-1 tvg-id="QVCStyle.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/QVC Style Germany (540p).PNG" group-title="Shop",QVC Style Germany (540p)
+#EXTINF:-1 tvg-id="QVCStyle.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/QVC%20Style%20Germany%20%28540p%29.PNG" group-title="Shop",QVC Style Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
-#EXTINF:-1 tvg-id="R9.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/R9 (720p) [Not 24/7].PNG" group-title="Undefined",R9 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="R9.at@SD" tvg-logo="" group-title="Undefined",R9 (720p) [Not 24/7]
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio3i.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Radio 3i (720p).PNG" group-title="Undefined",Radio 3i (720p)
+#EXTINF:-1 tvg-id="Radio3i.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Radio%203i%20%28720p%29.PNG" group-title="Undefined",Radio 3i (720p)
 https://vstream-cdn.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-id="Radio21TV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Radio 21 TV (720p).PNG" group-title="Music",Radio 21 TV (720p)
+#EXTINF:-1 tvg-id="Radio21TV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Radio%2021%20TV%20%28720p%29.PNG" group-title="Music",Radio 21 TV (720p)
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioBremenFernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Radio Bremen Fernsehen (1080p) [Geo-blocked].PNG" group-title="Undefined",Radio Bremen Fernsehen (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RadioBremenFernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Radio%20Bremen%20Fernsehen%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",Radio Bremen Fernsehen (1080p) [Geo-blocked]
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Radio Weser TV Bremen (576p).PNG" group-title="Music",Radio Weser TV Bremen (576p)
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD" tvg-logo="" group-title="Music",Radio Weser TV Bremen (576p)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Austria" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten TV Action Movies Austria (720p).PNG" group-title="Movies",Rakuten TV Action Movies Austria (720p)
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Austria" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten%20TV%20Action%20Movies%20Austria%20%28720p%29.PNG" group-title="Movies",Rakuten TV Action Movies Austria (720p)
 https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten TV Action Movies Germany (1080p).PNG" group-title="Movies",Rakuten TV Action Movies Germany (1080p)
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten%20TV%20Action%20Movies%20Germany%20%281080p%29.PNG" group-title="Movies",Rakuten TV Action Movies Germany (1080p)
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Austria" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten TV Comedy Movies Austria (720p).PNG" group-title="Movies",Rakuten TV Comedy Movies Austria (720p)
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Austria" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten%20TV%20Comedy%20Movies%20Austria%20%28720p%29.PNG" group-title="Movies",Rakuten TV Comedy Movies Austria (720p)
 https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten TV Comedy Movies Germany (1080p).PNG" group-title="Movies",Rakuten TV Comedy Movies Germany (1080p)
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten%20TV%20Comedy%20Movies%20Germany%20%281080p%29.PNG" group-title="Movies",Rakuten TV Comedy Movies Germany (1080p)
 https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Austria" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten TV Drama Movies Austria (720p).PNG" group-title="Movies",Rakuten TV Drama Movies Austria (720p)
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Austria" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten%20TV%20Drama%20Movies%20Austria%20%28720p%29.PNG" group-title="Movies",Rakuten TV Drama Movies Austria (720p)
 https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten TV Drama Movies Germany (1080p).PNG" group-title="Movies",Rakuten TV Drama Movies Germany (1080p)
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten%20TV%20Drama%20Movies%20Germany%20%281080p%29.PNG" group-title="Movies",Rakuten TV Drama Movies Germany (1080p)
 https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Austria" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten TV Family Movies Austria (720p).PNG" group-title="Family;Movies",Rakuten TV Family Movies Austria (720p)
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Austria" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten%20TV%20Family%20Movies%20Austria%20%28720p%29.PNG" group-title="Family;Movies",Rakuten TV Family Movies Austria (720p)
 https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten TV Family Movies Germany (1080p).PNG" group-title="Family;Movies",Rakuten TV Family Movies Germany (1080p)
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten%20TV%20Family%20Movies%20Germany%20%281080p%29.PNG" group-title="Family;Movies",Rakuten TV Family Movies Germany (1080p)
 https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Switzerland" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten TV Family Switzerland (720p).PNG" group-title="Family;Movies",Rakuten TV Family Switzerland (720p)
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Switzerland" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten%20TV%20Family%20Switzerland%20%28720p%29.PNG" group-title="Family;Movies",Rakuten TV Family Switzerland (720p)
 https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten TV Top Movies Germany (1080p).PNG" group-title="Movies",Rakuten TV Top Movies Germany (1080p)
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rakuten%20TV%20Top%20Movies%20Germany%20%281080p%29.PNG" group-title="Movies",Rakuten TV Top Movies Germany (1080p)
 https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
-#EXTINF:-1 tvg-id="RAN1.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RAN1 (1080p).PNG" group-title="Undefined",RAN1 (1080p)
+#EXTINF:-1 tvg-id="RAN1.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RAN1%20%281080p%29.PNG" group-title="Undefined",RAN1 (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="rbbFernsehen.de@Berlin" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RBB Berlin (1080p) [Geo-blocked].PNG" group-title="Undefined",RBB Berlin (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="rbbFernsehen.de@Berlin" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RBB%20Berlin%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",RBB Berlin (1080p) [Geo-blocked]
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
-#EXTINF:-1 tvg-id="rbbFernsehen.de@Brandenburg" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RBB Brandenburg (1080p) [Geo-blocked].PNG" group-title="Undefined",RBB Brandenburg (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="rbbFernsehen.de@Brandenburg" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RBB%20Brandenburg%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",RBB Brandenburg (1080p) [Geo-blocked]
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-#EXTINF:-1 tvg-id="rbbFernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/rbb Fernsehen.PNG" group-title="Undefined",rbb Fernsehen
+#EXTINF:-1 tvg-id="rbbFernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/rbb%20Fernsehen.PNG" group-title="Undefined",rbb Fernsehen
 https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="RBW.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RBW (1080p).PNG" group-title="Undefined",RBW (1080p)
+#EXTINF:-1 tvg-id="RBW.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RBW%20%281080p%29.PNG" group-title="Undefined",RBW (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Red Bull TV (1080p).PNG" group-title="Outdoor;Sports",Red Bull TV (1080p)
+#EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Red%20Bull%20TV%20%281080p%29.PNG" group-title="Outdoor;Sports",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at@DE" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Red Bull TV DE (1080p).PNG" group-title="Outdoor;Sports",Red Bull TV DE (1080p)
+#EXTINF:-1 tvg-id="RedBullTV.at@DE" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Red%20Bull%20TV%20DE%20%281080p%29.PNG" group-title="Outdoor;Sports",Red Bull TV DE (1080p)
 https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVBodensee.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Regio TV Bodensee (1080p).PNG" group-title="Undefined",Regio TV Bodensee (1080p)
+#EXTINF:-1 tvg-id="RegioTVBodensee.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Regio%20TV%20Bodensee%20%281080p%29.PNG" group-title="Undefined",Regio TV Bodensee (1080p)
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVSchwaben.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Regio TV Schwaben (1080p).PNG" group-title="Undefined",Regio TV Schwaben (1080p)
+#EXTINF:-1 tvg-id="RegioTVSchwaben.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Regio%20TV%20Schwaben%20%281080p%29.PNG" group-title="Undefined",Regio TV Schwaben (1080p)
 https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVStuttgart.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Regio TV Stuttgart (1080p).PNG" group-title="Undefined",Regio TV Stuttgart (1080p)
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Regio%20TV%20Stuttgart%20%281080p%29.PNG" group-title="Undefined",Regio TV Stuttgart (1080p)
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RennsteigTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rennsteig TV (720p).PNG" group-title="Undefined",Rennsteig TV (720p)
+#EXTINF:-1 tvg-id="RennsteigTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rennsteig%20TV%20%28720p%29.PNG" group-title="Undefined",Rennsteig TV (720p)
 http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="RFH.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RFH (1080p).PNG" group-title="General",RFH (1080p)
+#EXTINF:-1 tvg-id="RFH.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RFH%20%281080p%29.PNG" group-title="General",RFH (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RFO.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RFO (1080p).PNG" group-title="General",RFO (1080p)
+#EXTINF:-1 tvg-id="RFO.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RFO%20%281080p%29.PNG" group-title="General",RFO (1080p)
 https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RiC (1080p).PNG" group-title="Family;Kids",RiC (1080p)
+#EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RiC%20%281080p%29.PNG" group-title="Family;Kids",RiC (1080p)
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
-#EXTINF:-1 tvg-id="RNF.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RNF (1080p).PNG" group-title="Undefined",RNF (1080p)
+#EXTINF:-1 tvg-id="RNF.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RNF%20%281080p%29.PNG" group-title="Undefined",RNF (1080p)
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RockAntenne.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rock Antenne [Not 24/7].PNG" group-title="Undefined",Rock Antenne [Not 24/7]
+#EXTINF:-1 tvg-id="RockAntenne.de@SD" tvg-logo="" group-title="Undefined",Rock Antenne [Not 24/7]
 https://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:-1 tvg-id="RocklandTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Rockland TV (480p) [Not 24/7].PNG" group-title="Undefined",Rockland TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="RocklandTV.de@SD" tvg-logo="" group-title="Undefined",Rockland TV (480p) [Not 24/7]
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTDE.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RT DE (1080p) [Not 24/7].PNG" group-title="News",RT DE (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTDE.de@SD" tvg-logo="" group-title="News",RT DE (1080p) [Not 24/7]
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL [Geo-Blocked].PNG" group-title="Undefined",RTL [Geo-Blocked]
+#EXTINF:-1 tvg-id="RTL.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",RTL [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
-#EXTINF:-1 tvg-id="RTLCrime.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL Crime HD (1080p).PNG" group-title="Series",RTL Crime HD (1080p)
+#EXTINF:-1 tvg-id="RTLCrime.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL%20Crime%20HD%20%281080p%29.PNG" group-title="Series",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
-#EXTINF:-1 tvg-id="RTLPassion.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL Passion (1080p).PNG" group-title="Undefined",RTL Passion (1080p)
+#EXTINF:-1 tvg-id="RTLPassion.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL%20Passion%20%281080p%29.PNG" group-title="Undefined",RTL Passion (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8
-#EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL Super [Geo-Blocked].PNG" group-title="Undefined",RTL Super [Geo-Blocked]
+#EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL%20Super%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",RTL Super [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
-#EXTINF:-1 tvg-id="RTLZwee.lu@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL Zwee (1080p).PNG" group-title="General",RTL Zwee (1080p)
+#EXTINF:-1 tvg-id="RTLZwee.lu@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL%20Zwee%20%281080p%29.PNG" group-title="General",RTL Zwee (1080p)
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL Zwei HD (1080p) [Geo-Blocked].PNG" group-title="Undefined",RTL Zwei HD (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTL%20Zwei%20HD%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",RTL Zwei HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
-#EXTINF:-1 tvg-id="RTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/RTV (1080p) [Not 24/7].PNG" group-title="Undefined",RTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTV.at@SD" tvg-logo="" group-title="Undefined",RTV (1080p) [Not 24/7]
 http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 tvg-id="SaarlandFernsehen1.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Saarland Fernsehen 1 (1080p).PNG" group-title="Undefined",Saarland Fernsehen 1 (1080p)
+#EXTINF:-1 tvg-id="SaarlandFernsehen1.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Saarland%20Fernsehen%201%20%281080p%29.PNG" group-title="Undefined",Saarland Fernsehen 1 (1080p)
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="SaarlandFernsehen2.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Saarland Fernsehen 2 (720p) [Not 24/7].PNG" group-title="Undefined",Saarland Fernsehen 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SaarlandFernsehen2.de@SD" tvg-logo="" group-title="Undefined",Saarland Fernsehen 2 (720p) [Not 24/7]
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="SachsenEins.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sachsen Eins (1080p).PNG" group-title="Undefined",Sachsen Eins (1080p)
+#EXTINF:-1 tvg-id="SachsenEins.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sachsen%20Eins%20%281080p%29.PNG" group-title="Undefined",Sachsen Eins (1080p)
 https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="SalveTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Salve TV (720p).PNG" group-title="Undefined",Salve TV (720p)
+#EXTINF:-1 tvg-id="SalveTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Salve%20TV%20%28720p%29.PNG" group-title="Undefined",Salve TV (720p)
 https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
-#EXTINF:-1 tvg-id="SAT1Gold.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SAT.1 Gold (576p).PNG" group-title="Undefined",SAT.1 Gold (576p)
+#EXTINF:-1 tvg-id="SAT1Gold.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SAT.1%20Gold%20%28576p%29.PNG" group-title="Undefined",SAT.1 Gold (576p)
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Schladming-Dachstein TV (720p).PNG" group-title="Travel",Schladming-Dachstein TV (720p)
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Schladming-Dachstein%20TV%20%28720p%29.PNG" group-title="Travel",Schladming-Dachstein TV (720p)
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Seenluft24.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Seenluft24 (1080p).PNG" group-title="Undefined",Seenluft24 (1080p)
+#EXTINF:-1 tvg-id="Seenluft24.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Seenluft24%20%281080p%29.PNG" group-title="Undefined",Seenluft24 (1080p)
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="SenderNeuJerusalem.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sender Neu Jerusalem (576p).PNG" group-title="Undefined",Sender Neu Jerusalem (576p)
+#EXTINF:-1 tvg-id="SenderNeuJerusalem.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sender%20Neu%20Jerusalem%20%28576p%29.PNG" group-title="Undefined",Sender Neu Jerusalem (576p)
 https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
-#EXTINF:-1 tvg-id="ServusTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ServusTV (1080p) [Geo-blocked].PNG" group-title="Movies",ServusTV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ServusTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ServusTV%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="Movies",ServusTV (1080p) [Geo-blocked]
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
-#EXTINF:-1 tvg-id="ServusTV.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ServusTV HD [Geo-Blocked].PNG" group-title="Movies",ServusTV HD [Geo-Blocked]
+#EXTINF:-1 tvg-id="ServusTV.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ServusTV%20HD%20%5BGeo-Blocked%5D.PNG" group-title="Movies",ServusTV HD [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
-#EXTINF:-1 tvg-id="ShivaLiveTV.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Shiva Live TV (1080p).PNG" group-title="Religious",Shiva Live TV (1080p)
+#EXTINF:-1 tvg-id="ShivaLiveTV.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Shiva%20Live%20TV%20%281080p%29.PNG" group-title="Religious",Shiva Live TV (1080p)
 https://streameurope.ch/live/shivalivetv.m3u8
 #EXTINF:-1 tvg-id="sixx.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/sixx.PNG" group-title="Undefined",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="SonnenklarTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sonnenklar TV (1080p).PNG" group-title="Undefined",Sonnenklar TV (1080p)
+#EXTINF:-1 tvg-id="SonnenklarTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sonnenklar%20TV%20%281080p%29.PNG" group-title="Undefined",Sonnenklar TV (1080p)
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 tvg-id="SonusFM.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sonus FM TV (1080p) [Not 24/7].PNG" group-title="Undefined",Sonus FM TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SonusFM.de@SD" tvg-logo="" group-title="Undefined",Sonus FM TV (1080p) [Not 24/7]
 http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
-#EXTINF:-1 tvg-id="SophiaTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sophia TV (720p).PNG" group-title="Religious",Sophia TV (720p)
+#EXTINF:-1 tvg-id="SophiaTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sophia%20TV%20%28720p%29.PNG" group-title="Religious",Sophia TV (720p)
 https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CuriosityChannel.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SPIEGEL TV.PNG" group-title="Education",SPIEGEL TV
+#EXTINF:-1 tvg-id="CuriosityChannel.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SPIEGEL%20TV.PNG" group-title="Education",SPIEGEL TV
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
-#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SpongeBob Schwammkopf.PNG" group-title="Kids",SpongeBob Schwammkopf
+#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SpongeBob%20Schwammkopf.png" group-title="Kids",SpongeBob Schwammkopf
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
-#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sportdigital FUSSBALL HD (1080p).PNG" group-title="Sports",Sportdigital FUSSBALL HD (1080p)
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Sportdigital%20FUSSBALL%20HD%20%281080p%29.PNG" group-title="Sports",Sportdigital FUSSBALL HD (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8
-#EXTINF:-1 tvg-id="SRFernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SR Fernsehen (720p).PNG" group-title="Undefined",SR Fernsehen (720p)
+#EXTINF:-1 tvg-id="SRFernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SR%20Fernsehen%20%28720p%29.PNG" group-title="Undefined",SR Fernsehen (720p)
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-id="SRF.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SRF (1080p).PNG" group-title="General",SRF (1080p)
+#EXTINF:-1 tvg-id="SRF.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SRF%20%281080p%29.PNG" group-title="General",SRF (1080p)
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SRF1.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SRF 1 (1080p) [Geo-Blocked].PNG" group-title="Undefined",SRF 1 (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="SRF1.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SRF%201%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",SRF 1 (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:-1 tvg-id="SRFinfo.ch@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SRF info HD (1080p) [Geo-Blocked].PNG" group-title="Undefined",SRF info HD (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="SRFinfo.ch@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SRF%20info%20HD%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",SRF info HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1 tvg-id="SRFzwei.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SRF zwei (1080p) [Geo-Blocked].PNG" group-title="Undefined",SRF zwei (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="SRFzwei.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SRF%20zwei%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",SRF zwei (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
-#EXTINF:-1 tvg-id="StarTV.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Star TV [Geo-Blocked].PNG" group-title="Undefined",Star TV [Geo-Blocked]
+#EXTINF:-1 tvg-id="StarTV.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Star%20TV%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",Star TV [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8
-#EXTINF:-1 tvg-id="SteiermarkTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Steiermark TV (1080p).PNG" group-title="General",Steiermark TV (1080p)
+#EXTINF:-1 tvg-id="SteiermarkTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Steiermark%20TV%20%281080p%29.PNG" group-title="General",Steiermark TV (1080p)
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="StimmungsgartenTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Stimmungsgarten TV.PNG" group-title="General",Stimmungsgarten TV
+#EXTINF:-1 tvg-id="StimmungsgartenTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Stimmungsgarten%20TV.PNG" group-title="General",Stimmungsgarten TV
 https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Stingray Classica (1080p).PNG" group-title="Music",Stingray Classica (1080p)
+#EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Stingray%20Classica%20%281080p%29.PNG" group-title="Music",Stingray Classica (1080p)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Strongman Champions League (720p).PNG" group-title="Sports",Strongman Champions League (720p)
+#EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Strongman%20Champions%20League%20%28720p%29.PNG" group-title="Sports",Strongman Champions League (720p)
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Studio47.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Studio 47 (576p).PNG" group-title="Undefined",Studio 47 (576p)
+#EXTINF:-1 tvg-id="Studio47.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Studio%2047%20%28576p%29.PNG" group-title="Undefined",Studio 47 (576p)
 https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLSuper.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Super RTL HD (720p).PNG" http-referrer="https://www.2ix2.com/super-rtl-live/" group-title="Undefined",Super RTL HD (720p)
+#EXTINF:-1 tvg-id="RTLSuper.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Super%20RTL%20HD%20%28720p%29.PNG" http-referrer="https://www.2ix2.com/super-rtl-live/" group-title="Undefined",Super RTL HD (720p)
 #EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
 https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
-#EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SWR 3 Visual Radio (720p).PNG" group-title="Undefined",SWR 3 Visual Radio (720p)
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SWR%203%20Visual%20Radio%20%28720p%29.PNG" group-title="Undefined",SWR 3 Visual Radio (720p)
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked].PNG" group-title="Undefined",SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de@SD" tvg-logo="" group-title="Undefined",SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked]
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked].PNG" group-title="Undefined",SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/SWR%20Fernsehen%20Rheinland-Pfalz%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked]
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Tagesschau 24 (720p).PNG" group-title="Undefined",Tagesschau 24 (720p)
+#EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Tagesschau%2024%20%28720p%29.PNG" group-title="Undefined",Tagesschau 24 (720p)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="TakeshisCastle.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Takeshi's Castle.PNG" group-title="Comedy",Takeshi's Castle
+#EXTINF:-1 tvg-id="TakeshisCastle.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Takeshi%27s%20Castle.png" group-title="Comedy",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Tastemade (1080p).PNG" group-title="Cooking",Tastemade (1080p)
+#EXTINF:-1 tvg-id="Tastemade.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Tastemade%20%281080p%29.PNG" group-title="Cooking",Tastemade (1080p)
 https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleM1.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Tele M1 (720p) [Not 24/7].PNG" group-title="Undefined",Tele M1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TeleM1.ch@SD" tvg-logo="" group-title="Undefined",Tele M1 (720p) [Not 24/7]
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="TeleBarn.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TeleBarn (1080p) [Geo-Blocked].PNG" group-title="Undefined",TeleBarn (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="TeleBarn.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TeleBarn%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",TeleBarn (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
-#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TeleBielingue (1080p) [Geo-Blocked].PNG" group-title="Undefined",TeleBielingue (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TeleBielingue%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",TeleBielingue (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
-#EXTINF:-1 tvg-id="TeleZuri.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TeleZüri (720p).PNG" group-title="Undefined",TeleZüri (720p)
+#EXTINF:-1 tvg-id="TeleZuri.ch@SD" tvg-logo="" group-title="Undefined",TeleZüri (720p)
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
-#EXTINF:-1 tvg-id="teltOwkanal.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/teltOwkanal (1080p).PNG" group-title="Undefined",teltOwkanal (1080p)
+#EXTINF:-1 tvg-id="teltOwkanal.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/teltOwkanal%20%281080p%29.PNG" group-title="Undefined",teltOwkanal (1080p)
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
-#EXTINF:-1 tvg-id="TerraMaterWILD.de@German" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Terra Mater WILD (1080p).PNG" group-title="Documentary",Terra Mater WILD (1080p)
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@German" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Terra%20Mater%20WILD%20%281080p%29.PNG" group-title="Documentary",Terra Mater WILD (1080p)
 https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="TheCyclingChannel.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/The Cycling Channel.PNG" group-title="Sports",The Cycling Channel
+#EXTINF:-1 tvg-id="TheCyclingChannel.at@SD" tvg-logo="" group-title="Sports",The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
-#EXTINF:-1 tvg-id="TideTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Tide TV (1080p).PNG" group-title="Undefined",Tide TV (1080p)
+#EXTINF:-1 tvg-id="TideTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Tide%20TV%20%281080p%29.PNG" group-title="Undefined",Tide TV (1080p)
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TirolTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Tirol TV (720p) [Not 24/7].PNG" group-title="Undefined",Tirol TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TirolTV.at@SD" tvg-logo="" group-title="Undefined",Tirol TV (720p) [Not 24/7]
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Totally Turtles.PNG" group-title="Kids",Totally Turtles
+#EXTINF:-1 tvg-id="TotallyTurtles.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Totally%20Turtles.png" group-title="Kids",Totally Turtles
 https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
-#EXTINF:-1 tvg-id="TV1Oberosterreich.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TV 1 Oberösterreich (1080p).PNG" group-title="Undefined",TV 1 Oberösterreich (1080p)
+#EXTINF:-1 tvg-id="TV1Oberosterreich.at@SD" tvg-logo="" group-title="Undefined",TV 1 Oberösterreich (1080p)
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:-1 tvg-id="TV24.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TV 24 (1080p) [Geo-Blocked].PNG" group-title="Undefined",TV 24 (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="TV24.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TV%2024%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",TV 24 (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
-#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TV38 Südost-Niedersachen (1080p).PNG" group-title="Undefined",TV38 Südost-Niedersachen (1080p)
+#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de@SD" tvg-logo="" group-title="Undefined",TV38 Südost-Niedersachen (1080p)
 https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="TVIngolstadt.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TV Ingolstadt (1080p).PNG" group-title="Undefined",TV Ingolstadt (1080p)
+#EXTINF:-1 tvg-id="TVIngolstadt.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TV%20Ingolstadt%20%281080p%29.PNG" group-title="Undefined",TV Ingolstadt (1080p)
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMainfranken.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TV Mainfranken (1080p) [Not 24/7].PNG" group-title="Undefined",TV Mainfranken (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVMainfranken.de@SD" tvg-logo="" group-title="Undefined",TV Mainfranken (1080p) [Not 24/7]
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVOberfranken.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TV Oberfranken (TVO) (1080p) [Not 24/7].PNG" group-title="General",TV Oberfranken (TVO) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVOberfranken.de@SD" tvg-logo="" group-title="General",TV Oberfranken (TVO) (1080p) [Not 24/7]
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRheintal.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TV Rheintal (720p).PNG" group-title="General",TV Rheintal (720p)
+#EXTINF:-1 tvg-id="TVRheintal.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TV%20Rheintal%20%28720p%29.PNG" group-title="General",TV Rheintal (720p)
 https://rtmp-vm.fidion.de/live/tvrt.m3u8
-#EXTINF:-1 tvg-id="TVA.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/TVA (1080p) [Not 24/7].PNG" group-title="Undefined",TVA (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVA.de@SD" tvg-logo="" group-title="Undefined",TVA (1080p) [Not 24/7]
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Unserding.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Unserding (720p) [Geo-blocked].PNG" group-title="Undefined",Unserding (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Unserding.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Unserding%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",Unserding (720p) [Geo-blocked]
 https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
-#EXTINF:-1 tvg-id="UpperaBalkan.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Uppera Balkan (720p) [Geo-blocked].PNG" group-title="Undefined",Uppera Balkan (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="UpperaBalkan.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Uppera%20Balkan%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",Uppera Balkan (720p) [Geo-blocked]
 http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
-#EXTINF:-1 tvg-id="Victorious.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Victorious.PNG" group-title="Undefined",Victorious
+#EXTINF:-1 tvg-id="Victorious.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Victorious.png" group-title="Undefined",Victorious
 https://jmp2.uk/plu-5e8b5e43f294f8000793c3d7.m3u8
-#EXTINF:-1 tvg-id="VolksmusikTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Volksmusik TV (1080p).PNG" group-title="Music",Volksmusik TV (1080p)
+#EXTINF:-1 tvg-id="VolksmusikTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Volksmusik%20TV%20%281080p%29.PNG" group-title="Music",Volksmusik TV (1080p)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="VOX.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/VOX (576p) [Geo-blocked] [Geo-Blocked].PNG" group-title="Undefined",VOX (576p) [Geo-blocked] [Geo-Blocked]
+#EXTINF:-1 tvg-id="VOX.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/VOX%20%28576p%29%20%5BGeo-blocked%5D%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",VOX (576p) [Geo-blocked] [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
-#EXTINF:-1 tvg-id="W24.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/W24 (720p) [Not 24/7].PNG" group-title="Undefined",W24 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="W24.at@SD" tvg-logo="" group-title="Undefined",W24 (720p) [Not 24/7]
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WDR1Live.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR 1 Live (720p).PNG" group-title="Entertainment",WDR 1 Live (720p)
+#EXTINF:-1 tvg-id="WDR1Live.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR%201%20Live%20%28720p%29.PNG" group-title="Entertainment",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen (1080p) [Geo-Blocked].PNG" group-title="General",WDR Fernsehen (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR%20Fernsehen%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="General",WDR Fernsehen (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Aachen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen Aachen (720p) [Geo-blocked].PNG" group-title="General",WDR Fernsehen Aachen (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Aachen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR%20Fernsehen%20Aachen%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",WDR Fernsehen Aachen (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Bielefeld" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen Bielefeld (720p) [Geo-blocked].PNG" group-title="General",WDR Fernsehen Bielefeld (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Bielefeld" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR%20Fernsehen%20Bielefeld%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",WDR Fernsehen Bielefeld (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Bonn" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen Bonn (720p) [Geo-blocked].PNG" group-title="General",WDR Fernsehen Bonn (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Bonn" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR%20Fernsehen%20Bonn%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",WDR Fernsehen Bonn (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Dortmund" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen Dortmund (720p) [Geo-blocked].PNG" group-title="General",WDR Fernsehen Dortmund (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Dortmund" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR%20Fernsehen%20Dortmund%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",WDR Fernsehen Dortmund (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Duisburg" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen Duisburg (720p) [Geo-blocked].PNG" group-title="General",WDR Fernsehen Duisburg (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Duisburg" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR%20Fernsehen%20Duisburg%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",WDR Fernsehen Duisburg (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Dusseldorf" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen Düsseldorf (720p) [Geo-blocked].PNG" group-title="General",WDR Fernsehen Düsseldorf (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Dusseldorf" tvg-logo="" group-title="General",WDR Fernsehen Düsseldorf (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Essen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen Essen (720p) [Geo-blocked].PNG" group-title="General",WDR Fernsehen Essen (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Essen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR%20Fernsehen%20Essen%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",WDR Fernsehen Essen (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Munster" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen Münster (720p) [Geo-blocked].PNG" group-title="General",WDR Fernsehen Münster (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Munster" tvg-logo="" group-title="General",WDR Fernsehen Münster (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Siegen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen Siegen (720p) [Geo-blocked].PNG" group-title="General",WDR Fernsehen Siegen (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Siegen" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR%20Fernsehen%20Siegen%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",WDR Fernsehen Siegen (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Wuppertal" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR Fernsehen Wuppertal (720p) [Geo-blocked].PNG" group-title="General",WDR Fernsehen Wuppertal (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Wuppertal" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WDR%20Fernsehen%20Wuppertal%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="General",WDR Fernsehen Wuppertal (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
-#EXTINF:-1 tvg-id="WELT.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WELT (1080p) [Geo-Blocked].PNG" group-title="News",WELT (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="WELT.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/WELT%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="News",WELT (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
-#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Welt der Wunder TV (576p).PNG" group-title="Undefined",Welt der Wunder TV (576p)
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Welt%20der%20Wunder%20TV%20%28576p%29.PNG" group-title="Undefined",Welt der Wunder TV (576p)
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/World of Freesports (1080p).PNG" group-title="Sports",World of Freesports (1080p)
+#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/World%20of%20Freesports%20%281080p%29.PNG" group-title="Sports",World of Freesports (1080p)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/World Poker Tour.PNG" group-title="Sports",World Poker Tour
+#EXTINF:-1 tvg-id="WorldPokerTour.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/World%20Poker%20Tour.png" group-title="Sports",World Poker Tour
 https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
-#EXTINF:-1 tvg-id="ZDF.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDF (720p) [Geo-blocked].PNG" group-title="Undefined",ZDF (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ZDF.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDF%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",ZDF (720p) [Geo-blocked]
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDF.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDF HD (720p) [Geo-Blocked].PNG" group-title="Undefined",ZDF HD (720p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="ZDF.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDF%20HD%20%28720p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",ZDF HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
-#EXTINF:-1 tvg-id="ZDFinfo.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDFinfo (720p) [Geo-blocked].PNG" group-title="Undefined",ZDFinfo (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ZDFinfo.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDFinfo%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",ZDFinfo (720p) [Geo-blocked]
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDFinfo HD (720p) [Geo-Blocked].PNG" group-title="Undefined",ZDFinfo HD (720p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="ZDFinfo.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDFinfo%20HD%20%28720p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",ZDFinfo HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
-#EXTINF:-1 tvg-id="ZDFneo.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDFneo (720p) [Geo-blocked].PNG" group-title="Undefined",ZDFneo (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ZDFneo.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDFneo%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",ZDFneo (720p) [Geo-blocked]
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDFneo HD (720p) [Geo-Blocked].PNG" group-title="Undefined",ZDFneo HD (720p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="ZDFneo.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZDFneo%20HD%20%28720p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",ZDFneo HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
-#EXTINF:-1 tvg-id="ZeeOne.uk@German" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Zee One German (720p).PNG" group-title="Entertainment",Zee One German (720p)
+#EXTINF:-1 tvg-id="ZeeOne.uk@German" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/Zee%20One%20German%20%28720p%29.PNG" group-title="Entertainment",Zee One German (720p)
 https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZWEI2 Music (1080p).PNG" group-title="Music",ZWEI2 Music (1080p)
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/Logos/ZWEI2%20Music%20%281080p%29.PNG" group-title="Music",ZWEI2 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
