@@ -17,7 +17,7 @@ for line in lines:
         name = parts[1].strip()
 
         # dein Logo-Link
-        logo_url = f"https://raw.githubusercontent.com/USER/REPO/main/logos/{name}.PNG"
+        logo_url = f"https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/main/logos/{name}.PNG"
 
         if 'tvg-logo="' in parts[0]:
             parts[0] = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', parts[0])
