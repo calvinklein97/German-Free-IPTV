@@ -345,7 +345,7 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_d
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PeerTVSudtirol.it@SD" tvg-logo="" group-title="Outdoor;Travel",Peer TV Südtirol (1080p)
 https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1 tvg-id="phoenix.de@HD" tvg-logo="" group-title="Undefined",phoenix (720p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="phoenix.de@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/phoenix%20%28720p%29%20%5BGeo-Blocked%5D.PNG" group-title="Undefined",phoenix (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
 #EXTINF:-1 tvg-id="PlutoTVAnimals.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Pluto%20TV%20Animals.png" group-title="Documentary",Pluto TV Animals
 https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
@@ -399,7 +399,7 @@ https://vstream-cdn.ch/hls/radio3i.m3u8
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioBremenFernsehen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Radio%20Bremen%20Fernsehen%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",Radio Bremen Fernsehen (1080p) [Geo-blocked]
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD" tvg-logo="" group-title="Music",Radio Weser TV Bremen (576p)
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Radio%20Weser%20TV%20Bremen%20%28576p%29.PNG" group-title="Music",Radio Weser TV Bremen (576p)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Austria" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Rakuten%20TV%20Action%20Movies%20Austria%20%28720p%29.PNG" group-title="Movies",Rakuten TV Action Movies Austria (720p)
 https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
@@ -562,7 +562,7 @@ https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TirolTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Tirol%20TV%20%28720p%29%20%5BNot%20247%5D.PNG" group-title="Undefined",Tirol TV (720p) [Not 24/7]
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.us@Germany" tvg-logo="" group-title="Kids",Totally Turtles (720p)
+#EXTINF:-1 tvg-id="TotallyTurtles.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Totally%20Turtles%20%28720p%29.png" group-title="Kids",Totally Turtles (720p)
 https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
 #EXTINF:-1 tvg-id="TV1Oberosterreich.at@SD" tvg-logo="" group-title="Undefined",TV 1 Oberösterreich (1080p)
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
