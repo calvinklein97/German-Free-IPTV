@@ -489,8 +489,6 @@ https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20
 https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
 #EXTINF:-1 tvg-id="ServusTV.at@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/ServusTV%20%281080p%29%20%5BGeo-blocked%5D.PNG" group-title="Movies",ServusTV (1080p) [Geo-blocked]
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
-#EXTINF:-1 tvg-id="ServusTV.at@HD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/ServusTV%20HD%20%281080p%29%20%5BGeo-Blocked%5D.PNG" group-title="Movies",ServusTV HD (1080p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 #EXTINF:-1 tvg-id="ShivaLiveTV.ch@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Shiva%20Live%20TV%20%281080p%29.PNG" group-title="Religious",Shiva Live TV (1080p)
 https://streameurope.ch/live/shivalivetv.m3u8
 #EXTINF:-1 tvg-id="sixx.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/sixx.PNG" group-title="Undefined",sixx
