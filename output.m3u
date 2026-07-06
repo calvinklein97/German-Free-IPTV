@@ -561,7 +561,7 @@ https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 https://streameurope.ch/live/shivalivetv.m3u8
 #EXTINF:-1 tvg-id="sixx.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/sixx.PNG" group-title="Undefined",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="SonnenklarTV.de@SD" tvg-logo="" group-title="Undefined",Sonnenklar TV (1080p)
+#EXTINF:-1 tvg-id="SonnenklarTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Sonnenklar%20TV%20%281080p%29.PNG" group-title="Undefined",Sonnenklar TV (1080p)
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-id="SonusFM.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Sonus%20FM%20TV%20%281080p%29%20%5BNot%20247%5D.PNG" group-title="Undefined",Sonus FM TV (1080p) [Not 24/7]
 http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
