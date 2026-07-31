@@ -619,8 +619,6 @@ https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/SWR%20Fernsehen%20Rheinland-Pfalz%20%28720p%29%20%5BGeo-blocked%5D.PNG" group-title="Undefined",SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked]
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-#EXTINF:-1 tvg-id="SYFY.de@HD" tvg-logo="" group-title="Undefined",SYFY HD (720p)
-http://rezofoot.tv/SYFY-HD/index.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Tagesschau%2024%20%28720p%29.PNG" group-title="Undefined",Tagesschau 24 (720p)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="TakeshisCastle.de@DACH" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Takeshi%27s%20Castle.png" group-title="Comedy",Takeshi's Castle
