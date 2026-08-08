@@ -261,7 +261,7 @@ https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
 #EXTINF:-1 tvg-id="Naruto.us@Germany" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Naruto%20%28720p%29.png" group-title="Animation",Naruto (720p)
 https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
-#EXTINF:-1 tvg-id="NBC1.na@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/NBC%201.PNG" group-title="General",NBC 1
+#EXTINF:-1 tvg-id="NBC1.na@SD" tvg-logo="" group-title="General",NBC 1 [Not 24/7]
 https://hls2.nbcplus.na/hls/high_nbc1.m3u8
 #EXTINF:-1 tvg-id="NBC2.na@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/NBC%202.PNG" group-title="News",NBC 2
 https://hls2.nbcplus.na/hls/high_nbc2.m3u8
