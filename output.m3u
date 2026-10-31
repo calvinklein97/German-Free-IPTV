@@ -469,6 +469,8 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/RiC%20%281080p%29.PNG" group-title="Family;Kids",RiC (1080p)
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="RiCtoday.de@HD" tvg-logo="" group-title="Undefined",RiC.today
+http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="RockAntenne.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Rock%20Antenne%20%5BNot%20247%5D.PNG" group-title="Undefined",Rock Antenne [Not 24/7]
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-id="RocklandTV.de@SD" tvg-logo="https://raw.githubusercontent.com/calvinklein97/German-Free-IPTV/refs/heads/main/Logos/Rockland%20TV%20%28480p%29%20%5BNot%20247%5D.PNG" group-title="Undefined",Rockland TV (480p) [Not 24/7]
